@@ -1,0 +1,4 @@
+language: swift
+osx_image: xcode11
+xcode_project: SwiftyUI.xcodeproj
+xcode_destination: platform=iOS Simulator,OS=13,name=iPhone X
